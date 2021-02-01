@@ -1,0 +1,65 @@
+h1{background-color: blue;
+color: yellow;
+text-align: center;
+font-family: PottaOne;
+width: 880px;
+}
+
+div.cuadrado{
+background-color: darkcyan;
+color: white;
+width: 290px;
+height: 100px;
+font-size: small;
+float: left;
+}
+
+div p{
+background-color: black;
+color: yellow;
+font-size: small;
+height:13px ;
+width: 1180px;
+}
+
+
+
+p.solo {
+    background-color: black;
+    color: yellow;
+    font-size: small;
+    height:13px ;
+    width: 590px;    
+}
+
+
+
+hr{
+width: 40%;
+}
+
+section{
+    border-top: blue 19px solid;
+    border-bottom: blue 19px solid;
+    font-size: 20px; 
+    text-align: left;
+    width: 880px;
+    
+}
+section p{
+width: 1200px;
+
+}
+
+section hr{
+width: 60%;
+}
+
+p.final{
+font-size:25px;
+width: 1500px;
+
+
+
+
+}

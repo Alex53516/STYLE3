@@ -1,0 +1,20 @@
+@font-face{
+    font-family: PottaOne;
+    src: url(Fuentes/PottaOne.ttf);
+    }
+    
+    h1{font-family:PottaOne ;}
+
+    @font-face{
+        font-family:CodaCaption ;
+        src: url(Fuentes/CodaCaption.ttf);
+    }
+
+    section{font-family: CodaCaption;}
+
+    @font-face{
+        font-family: YuseiMagic;
+        src: url(Fuentes/YuseiMagic.ttf);
+
+    }
+    p.final{font-family: YuseiMagic;}
